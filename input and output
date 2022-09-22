@@ -1,0 +1,40 @@
+#Helloworld
+print('hello world')
+
+
+#Hellotab
+print('hello world\thello world')
+
+
+#Helloworld with newtab
+print('hello world\nhello world')
+
+
+#integer input
+a=int(input())
+print(a)
+
+
+#Float input
+a=float(input())
+print("%.2f" %a)
+
+
+#character input
+a=(input())
+print(a)
+
+
+#string input
+a=str(input())
+print(a)
+
+
+#ascii-1 input
+a=(input())
+print(ord(a))
+
+
+#ascii-2 input
+a=int(input())
+print(chr(a))
